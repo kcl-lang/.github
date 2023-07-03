@@ -2,7 +2,7 @@
 
 👩‍💻 [Quick Start](https://kcl-lang.io/docs/user_docs/getting-started/kcl-quick-start) | 👀 [Blog](https://kcl-lang.io/blog)
 
-[KCL](https://github.com/KusionStack/kcl) is a constraint-based record & functional language mainly used in configuration and policy scenarios.
+[KCL](https://github.com/kcl-lang/kcl) is a constraint-based record & functional language mainly used in configuration and policy scenarios.
 
 ## What is it for?
 
