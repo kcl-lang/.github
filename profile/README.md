@@ -12,6 +12,10 @@
 + Organize, simplify, unify, and manage large configurations scalably without side effects.
 + Used as a platform engineering language to deliver modern apps with [KusionStack](https://github.com/KusionStack).
 
+## Document
+
+See the [KCL website](https://kcl-lang.io) for more.
+
 ## Community
 
 See the [community](https://github.com/kcl-lang/community) for ways to join us.
