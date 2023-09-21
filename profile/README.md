@@ -3,7 +3,7 @@
 <div align="center">
 <p></p><p></p>
 <p>
-    <img  src="./kcl-logo.png">
+    <img  src="./profile/kcl-logo.png">
 </p>
 </div>
 
