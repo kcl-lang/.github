@@ -7,7 +7,7 @@
 </p>
 </div>
 
-💻 [Website](https://kcl-lang.io) | 👩‍💻 [Quick Start](https://kcl-lang.io/docs/user_docs/getting-started/kcl-quick-start) | 👀 [Blog](https://kcl-lang.io/blog)
+💻 [Website](https://kcl-lang.io) | 👩‍💻 [Quick Start](https://kcl-lang.io/docs/user_docs/getting-started/kcl-quick-start) | 👀 [Blog](https://kcl-lang.io/blog) | 📦 [Modules](https://artifacthub.io/packages/search?org=kcl&sort=relevance&page=1)
 
 [KCL](https://github.com/kcl-lang/kcl) is a constraint-based record & functional language mainly used in cloud-native configuration and policy scenarios. It is hosted by the **Cloud Native Computing Foundation (CNCF) as a Sandbox Project**.
 
