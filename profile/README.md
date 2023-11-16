@@ -16,8 +16,8 @@
 KCL aims to provide the following capabilities:
 
 + Hide infrastructure and platform details by defining more appropriate **API abstractions** to reduce the burden of developers.
-+ **Mutate** and **validate** existing config files or manifests.
-+ **Manage large-scale configuration data** across teams without side effects through configuration language.
++ **Mutate** and **validate** existing config files or manifests through numerous community modules.
++ **Manage large-scale configuration data** across teams without side effects through configuration and policy language for GitOps.
 
 Specifically, KCL can
 
